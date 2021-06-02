@@ -1,7 +1,7 @@
 # Hello there 👋, I'm Quadri! 🦦
-
+<!-- 
 **Get in touch:**
-[![Linkedin Badge](https://img.shields.io/badge/-yusufkolawole-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yusufquadrik/)](https://www.linkedin.com/in/yusufquadrik/) style=flat&logo=github&logoColor=white&link=https://github.com/pedes/)](https://www.github.com/yusufkolawole/)
+[![Linkedin Badge](https://img.shields.io/badge/-yusufkolawole-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yusufquadrik/)](https://www.linkedin.com/in/yusufquadrik/) style=flat&logo=github&logoColor=white&link=https://github.com/pedes/)](https://www.github.com/yusufkolawole/) -->
 
 <!-- ![universe-frame](https://i.giphy.com/media/J39gurpvL7SHpnTTJB/giphy.webp "Universe Big Bang") -->
 
