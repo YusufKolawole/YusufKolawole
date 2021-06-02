@@ -1,7 +1,7 @@
 # Hello there 👋, I'm Quadri! 🦦
 
 **Get in touch:**
-[![Linkedin Badge](https://img.shields.io/badge/-yusufkolawole-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yusufquadrik/)](https://www.linkedin.com/in/yusufquadrik/) [![Github Badge](https://img.shields.io/badge/-pedes-grey?style=flat&logo=github&logoColor=white&link=https://github.com/pedes/)](https://www.github.com/pedes/) ![Profile views](https://gpvc.arturio.dev/pedes)
+[![Linkedin Badge](https://img.shields.io/badge/-yusufkolawole-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yusufquadrik/)](https://www.linkedin.com/in/yusufquadrik/) style=flat&logo=github&logoColor=white&link=https://github.com/pedes/)](https://www.github.com/yusufkolawole/)
 
 <!-- ![universe-frame](https://i.giphy.com/media/J39gurpvL7SHpnTTJB/giphy.webp "Universe Big Bang") -->
 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 🏆 I'm an avid improver. Continuously learning how to make the world better.
 - Based in **Nigeria**
 
-## Some of my Github Stats
+<!-- ## Some of my Github Stats -->
 <!-- [![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=pedes&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/pedes/github-readme-stats)
 [![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=pedes&layout=compact)](https://github.com/pedes/github-readme-stats)
  -->
