@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Quadri</h1>
-<h3 align="center">I am Software craftsman, a constant learner and Front-end developer with a huge love for Front-end using React and its ecosystems,cloud Devops with aws, software engineering, compiler and interpreter designs using Go</h3>
+<h3 align="center">I am Software craftsman, a constant learner and passionate Front-end developer with a huge love for Front-end using React and its ecosystems,cloud Devops with aws, software engineering, compiler and interpreter designs using Go</h3>
 
 <p align="left"> <a href="https://twitter.com/abdulquadriee" target="blank"><img src="https://img.shields.io/twitter/follow/abdulquadriee?logo=twitter&style=for-the-badge" alt="abdulquadriee" /></a> </p>
 
