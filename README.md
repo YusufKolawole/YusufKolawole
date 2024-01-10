@@ -1,36 +1,23 @@
-# Hello there 👋, I'm Quadri! 🦦
-<!-- 
-**Get in touch:**
-[![Linkedin Badge](https://img.shields.io/badge/-yusufkolawole-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yusufquadrik/)](https://www.linkedin.com/in/yusufquadrik/) style=flat&logo=github&logoColor=white&link=https://github.com/pedes/)](https://www.github.com/yusufkolawole/) -->
+<h1 align="center">Hi 👋, I'm Quadri</h1>
+<h3 align="center">I am Software craftsman, a constant learner and Front-end developer with a huge love for Front-end using React and its ecosystems,cloud Devops with aws, software engineering, compiler and interpreter designs using Go</h3>
 
-<!-- ![universe-frame](https://i.giphy.com/media/J39gurpvL7SHpnTTJB/giphy.webp "Universe Big Bang") -->
+<p align="left"> <a href="https://twitter.com/abdulquadriee" target="blank"><img src="https://img.shields.io/twitter/follow/abdulquadriee?logo=twitter&style=for-the-badge" alt="abdulquadriee" /></a> </p>
 
-<!--
-**pedes/pedes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **building a Compiler and Interpreter with Go**
 
-Here are some ideas to get you started:
+- 🌱 I’m a constant learner and currently learning **Go, Java, Rust**
 
-- 🔭 I’m currently working on Voice Navigation Ecommerce website for Visually impaired
-- 🌱 I’m currently learning Graphql, Postgresql, Kubernetes
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **React, Vue, Go,Front-end**
 
-<!-- - 📫 Let's get social: <a href="https://www.linkedin.com/in/andrespedes12/"> <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>   -->
+- 📫 How to reach me **quadyusuf@gmail.com**
 
-- 🔭 I’m currently working on Voice Navigation Ecommerce website for Visually impaired
-- 🌱 I’m currently learning Graphql, Postgresql, Kubernetes
-- 💬 Let's talk about Software Engineering, React.js, Front-end, Development Patterns.
-- 🏆 I'm an avid improver. Continuously learning how to make the world better.
-- Based in **Nigeria**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/yusufkolawole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="yusufkolawole" height="30" width="40" /></a>
+<a href="https://twitter.com/abdulquadriee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdulquadriee" height="30" width="40" /></a>
+</p>
 
-<!-- ## Some of my Github Stats -->
-<!-- [![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=pedes&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/pedes/github-readme-stats)
-[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=pedes&layout=compact)](https://github.com/pedes/github-readme-stats)
- -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-<!--![Pedes's github stats](https://github-readme-stats.vercel.app/api?username=pedes) -->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yusufkolawole&show_icons=true&locale=en&layout=compact" alt="yusufkolawole" /></p>
